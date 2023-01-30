@@ -1,13 +1,13 @@
-**👋 Всем привет! Я Дарья**
+# 👋 Hi there! I'm Daria
 
-- 👀 Стремлюсь писать чистый и понятный код
-- 💻 Сейчас изучаю React
-- 🤝 Хочу работать в команде с опытными коллегами
-- 📖 Готова изучать новые инструменты
-- 📫 Связаться со мной - daryanickulina@yandex.ru
+👀 I attempt to write self-documenting code  
+💻 I'm currently studying React  
+🤝 I would like to work in a team with experienced colleagues  
+🆕 I'm ready to learn new technology stacks and frameworks (TypeScript, Redux, Vue are in priority)  
+👐 I'm interested in developing towards the accessibility of interfaces  
 
 
-**Мой стек**
+## Languages and Tools:
 
 <a href="https://html5book.ru/html-html5/">
   <img src="https://user-images.githubusercontent.com/75899222/173441246-d915c8ea-81ba-4fdb-a30a-a6ac71daa385.png" width="50">
@@ -35,9 +35,25 @@
 </a>
 <a href="https://ru.reactjs.org/">
   <img src="https://user-images.githubusercontent.com/75899222/173441906-db80f4af-405c-4962-83fa-09d05cf1e57a.png" width="50">
-</a>       <br/>
- <br/>
+</a>
+<a href="https://nodejs.org/en/about/">
+  <img src="https://user-images.githubusercontent.com/75899222/215486261-38b0a350-06ad-4e63-a645-757a605300bd.png" width="50">
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://user-images.githubusercontent.com/75899222/215487583-c716d127-c9d1-401b-a2d4-0b5191879116.png" width="50">
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://user-images.githubusercontent.com/75899222/215488257-c0ddac6f-23fc-42f3-b092-5b1d60a6c45f.png" width="50">
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://user-images.githubusercontent.com/75899222/215488881-eb7fcebe-8634-427a-ab52-ca82ec618afe.png" width="50">
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://user-images.githubusercontent.com/75899222/215489461-e2dbebf6-87d1-41a0-81b2-d29721fb5f52.png" width="50">
+</a>  
 
-**Моя статистика**
+</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Daria&layout=compact)](https://github.com/N-Daria)
+## Some stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-Daria&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-Daria&theme=github)
